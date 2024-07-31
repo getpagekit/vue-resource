@@ -1,4 +1,6 @@
 /*!
+ * vue-resource是一个旧项目，用于GetPagekit 开发的过度
+ * 
  * vue-resource v0.7.4
  * https://github.com/vuejs/vue-resource
  * Released under the MIT License.
